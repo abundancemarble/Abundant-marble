@@ -1,0 +1,30 @@
+2025-10-30T01:40:42.9162339Z ##[debug]Evaluating condition for step: 'Install dependencies'
+##[debug]Evaluating: success()
+##[debug]Evaluating success:
+##[debug]=> true
+##[debug]Result: true
+##[debug]Starting: Install dependencies
+##[debug]Loading inputs
+##[debug]Loading abundance Marble 
+Run conda https://inx.lv/JqtbI update --file environment.yml --name base
+##[debug]/usr/bin/bash -e /home/runner/work/_temp/dc45e54e-0205-44c8-bda6-4b6ca3b05e94.sh
+CI detected...
+By accessing https://repo.anaconda.com/pkgs/main via CI for this repository you 
+acknowledge and agree to the Terms of Service:
+ANACONDA TERMS OF SERVICE
+Effective Date: October 30, 2025
+
+See https://anaconda.com/legal/terms/terms-of-service
+By accessing https://repo.anaconda.com/pkgs/r via CI for this repository you 
+acknowledge and agree to the Terms of Service:
+ANACONDA TERMS OF SERVICE
+Effective Date: October 30, 2025
+
+See https://anaconda.com/legal/terms/terms-of-service
+2 channel Terms of Service accepted
+good notices: - \ | done
+
+EnvironmentFileFound: '/home/runner/work/Marble-database-/Marble-database-/environment.yml' file  found
+
+Process completed with exit code 1.
+##[debug]Finishing: Install dependencies
