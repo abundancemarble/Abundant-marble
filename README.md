@@ -6,7 +6,7 @@ A curated list of awesome marketing tools, books, blogs, podcasts, and resources
 by **[Marketing Tools List](https://marketingtoolslist.com)**
 
 ## Table of Contents
-
+https://a1abundancemarble.slack.com/archives/D089ACS0ZAS/p1763784953687649
 - Tools
   - [Marketing Strategy and Planning](#marketing-strategy-and-planning)
   - [SEO (Search Engine Optimization)](#seo-search-engine-optimization)
